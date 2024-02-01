@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>system</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_181</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="system"/>
+		<item run="login"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>system</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>lib</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>lib</path>
+			</folderitem>
+			<fileitem>
+				<path>src\add_new_items.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\database_connection.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\delete_item.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\edit_items.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\inventory.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\login.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\menu.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\pos.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>lib\mysql-connector-j-8.2.0.jar</path>
+				<folder>lib</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

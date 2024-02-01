@@ -1,0 +1,8 @@
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\add_new_items.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\database_connection.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\delete_item.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\edit_items.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\inventory.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\login.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\menu.java"
+"C:\\Users\\kassy\\OneDrive\\Documents\\JCreator LE\\MyProjects\\system\\src\\pos.java"
