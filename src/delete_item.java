@@ -1,25 +1,6 @@
 import javax.swing.*;
-import javax.swing.table.*;
 import java.awt.event.*;
-import java.awt.*;
 import java.sql.*;
-import java.awt.Color;
-import javax.swing.border.*;
-import java.awt.geom.*;
-import javax.swing.table.JTableHeader;
-import java.util.ArrayList;
-import java.util.List;
-import javax.swing.*;
-import javax.swing.table.*;
-import java.awt.event.*;
-import java.awt.*;
-import java.sql.*;
-import java.awt.Color;
-import javax.swing.border.*;
-import java.awt.geom.*;
-import javax.swing.table.JTableHeader;
-import java.util.ArrayList;
-import java.util.List;
 
 public class delete_item {
 
